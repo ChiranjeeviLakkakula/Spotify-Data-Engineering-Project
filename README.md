@@ -12,6 +12,12 @@ Spotify Web API enables the creation of applications that can interact with Spot
 
 API documentation - [Spotify API](https://developer.spotify.com/documentation/web-api)
 
+## _Language Used_
+
+**Python** 
+1. Used python to extract data from Spotify API into JSON format.
+2. Converted the extracted data set into Dataframe and performed transformation
+
 ## _Services Used_
 
 1. **AWS S3:** Amazon S3 (Simple Storage Service) is a cloud-based object storage service provided by Amazon Web Services (AWS). It offers scalability, data availability, security, and performance to store and manage any amount of data for various use cases like data lakes, websites, mobile applications, and big data analytics
